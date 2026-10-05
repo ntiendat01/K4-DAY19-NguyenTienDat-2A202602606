@@ -6,8 +6,8 @@
 
 **Lựa chọn** (đánh dấu một):
 
-- Dùng ontology gợi ý (có thể chỉnh nhỏ)
-- Tự thiết kế (xét bonus +15, xem `SUBMISSION.md`)
+- [x] Dùng ontology gợi ý (có thể chỉnh nhỏ)
+- [ ] Tự thiết kế (xét bonus +15, xem `SUBMISSION.md`)
 
 > Hướng dẫn: `LAB_GUIDE.md` Bước 2. Dùng ontology gợi ý thì vẫn phải điền đủ các mục dưới đây bằng lời của bạn.
 
